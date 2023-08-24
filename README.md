@@ -1,2 +1,2 @@
 # ExerciciosJavaScript
-Treinando com exercícios básicos.
+Treinando JavaScript com exercícios básicos.
